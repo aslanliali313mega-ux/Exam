@@ -1,0 +1,38 @@
+﻿using Microsoft.AspNetCore.Identity;
+using Qecomvers.Core.Entities;
+using Qecomvers.DAL.Contexts;
+
+namespace Qecomvers.MVC
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<QecomversDbContext>(opt =>
+    opt.UseSqlServer(
+        builder.Configuration.GetConnectionString("Default")
+    )
+);
+            var app = builder.Build();
+            builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+            {
+                opt.User.RequireUniqueEmail = true;
+                opt.Password.RequiredLength = 6;
+                opt.Password.RequireNonAlphanumeric = false;
+                opt.Password.RequireDigit = false;
+                opt.Password.RequireLowercase = false;
+                opt.Password.RequireUppercase = false;
+
+                opt.SignIn.RequireConfirmedEmail = true;
+            });
+
+
+
+
+
+
+            app.Run();
+        }
+    }
+}

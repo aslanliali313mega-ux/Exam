@@ -1,0 +1,13 @@
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\bin\Debug\net8.0\Qecomvers.Core.deps.json
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\bin\Debug\net8.0\Qecomvers.Core.dll
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\bin\Debug\net8.0\Qecomvers.Core.pdb
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\Qecomvers.Core.csproj.AssemblyReference.cache
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\Qecomvers.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\Qecomvers.Core.AssemblyInfoInputs.cache
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\Qecomvers.Core.AssemblyInfo.cs
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\Qecomvers.Core.csproj.CoreCompileInputs.cache
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\Qecomvers.Core.dll
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\refint\Qecomvers.Core.dll
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\Qecomvers.Core.pdb
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\ref\Qecomvers.Core.dll
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Core\obj\Debug\net8.0\Qecomver.10CE3AF7.Up2Date

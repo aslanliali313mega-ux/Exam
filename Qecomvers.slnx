@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Qecomvers.Business/Qecomvers.Business.csproj" />
+  <Project Path="Qecomvers.Core/Qecomvers.Core.csproj" />
+  <Project Path="Qecomvers.DAL/Qecomvers.DAL.csproj" />
+  <Project Path="Qecomvers.MVC/Qecomvers.MVC.csproj" />
+</Solution>

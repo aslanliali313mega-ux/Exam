@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace Qecomvers.Core.Enums
+{
+    public enum Color
+    {
+        Red,
+        Blue,
+        Green,
+        Black,
+        White
+    }
+}
+
+namespace Qecomvers.Core.Entities.Common
+{
+    public class Color : BaseEntity
+    {
+        public string Name { get; set; }
+        public Guid ProductId { get; set; }
+        public Product Product { get; set; }
+    }
+}

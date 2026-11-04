@@ -1,0 +1,24 @@
+﻿using Qecomvers.Core.Entities.Common;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Qecomvers.Core.Entities
+{
+    public class Product : BaseEntity
+    {
+       public string Name { get; set; } = string.Empty;
+public string Price { get; set; } = string.Empty;
+public string Description { get; set; } = string.Empty;
+public int Discount { get; set; }
+public string Count { get; set; } = string.Empty;
+public string Stars { get; set; } = string.Empty;
+public string ImageUrl { get; set; } = string.Empty;
+public ICollection<ProductColor> ProductColors { get; set; } = new List<ProductColor>();
+public ICollection<ProductSize> ProductSizes { get; set; } = new List<ProductSize>();
+public ICollection<ProductCategory> ProductCategories { get; set; } = new List<ProductCategory>();
+        public ICollection<ProductImage> ProductImages { get; set; } = new List<ProductImage>();
+    }
+}

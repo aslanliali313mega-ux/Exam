@@ -1,0 +1,17 @@
+﻿using Qecomvers.Core.Entities;
+using Qecomvers.Core.Entities.Common;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Qecomvers.Core.Enums
+{
+    public enum Color : BaseEntity
+    {
+      public Color Color { get; set; }
+    public Guid ProductId { get; set; }
+    public Product Product { get; set; }
+}
+}

@@ -1,0 +1,48 @@
+﻿using Qecomvers.Business.DTOs.User;
+using Qecomvers.Core.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Qecomvers.Business.Profiles
+{
+    public class AppUserProfile : Profiles
+    {
+        public AppUserProfile()
+        {
+            CreateMap<RegisterDTO, AppUser>()
+     .ForMember(e => e.PasswordHash, opt => opt.Ignore());
+
+         public async Task<AppUser> RegisterAsync(RegisterDTO dto)
+        {
+            AppUser user = new AppUser
+            {
+                UserName = dto.Username,
+                Email = dto.Email,
+                Name = dto.Name,
+                Surname = dto.Surname,
+                BirthDate = dto.BirthDate,
+            };
+        }
+        var result = await _repo.RegisteredAsync(user, dto.Password);
+
+        public async Task<AppUser> RegisterAsync(RegisterDTO dto)
+        {
+            var result = await _repo.RegisteredAsync(user, dto.Password);
+
+            if (!result.Succeeded)
+            {
+                foreach (var error in result.Errors)
+                {
+                    throw new Exception(error.Description);
+                }
+            }
+
+            return user;
+        }
+
+    }
+    }
+}

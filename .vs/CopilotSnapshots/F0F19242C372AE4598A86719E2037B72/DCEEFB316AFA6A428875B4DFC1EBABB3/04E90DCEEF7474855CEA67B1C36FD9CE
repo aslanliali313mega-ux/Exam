@@ -1,0 +1,13 @@
+﻿using Microsoft.AspNetCore.Identity;
+using Qecomvers.Core.Entities;
+
+namespace Qecomvers.Core.Repositories
+{
+    internal class SignInManager<T>
+    {
+        internal async Task<SignInResult> CheckPasswordSignInAsync(AppUser user, string password, bool v)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

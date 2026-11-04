@@ -1,0 +1,17 @@
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\bin\Debug\net8.0\Qecomvers.Business.deps.json
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\bin\Debug\net8.0\Qecomvers.Business.dll
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\bin\Debug\net8.0\Qecomvers.Business.pdb
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\bin\Debug\net8.0\Qecomvers.Core.dll
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\bin\Debug\net8.0\Qecomvers.DAL.dll
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\bin\Debug\net8.0\Qecomvers.DAL.pdb
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\bin\Debug\net8.0\Qecomvers.Core.pdb
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\Qecomvers.Business.csproj.AssemblyReference.cache
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\Qecomvers.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\Qecomvers.Business.AssemblyInfoInputs.cache
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\Qecomvers.Business.AssemblyInfo.cs
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\Qecomvers.Business.csproj.CoreCompileInputs.cache
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\Qecomver.D73F31A0.Up2Date
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\Qecomvers.Business.dll
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\refint\Qecomvers.Business.dll
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\Qecomvers.Business.pdb
+C:\Users\EliAslanov\Desktop\mvs derseli\Qecomvers\Qecomvers.Business\obj\Debug\net8.0\ref\Qecomvers.Business.dll

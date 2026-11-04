@@ -1,0 +1,6 @@
+﻿namespace Qecomvers.Core.Repositories
+{
+    public class UserGenericRepository<T>
+    {
+    }
+}

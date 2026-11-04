@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\configurations\\productsizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\configurations\\productsizeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.mvc\\qecomvers.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|solutionrelative:qecomvers.mvc\\qecomvers.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\configurations\\productimageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\configurations\\productimageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\configurations\\productcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\configurations\\productcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\qecomvers.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\qecomvers.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\configurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\configurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|solutionrelative:qecomvers.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\siteitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\siteitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\common\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\common\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\common\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\common\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|solutionrelative:qecomvers.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\common\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\common\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\productcategoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\productcategoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.business\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|solutionrelative:qecomvers.business\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.business\\validators\\uservalidators\\registerdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|solutionrelative:qecomvers.business\\validators\\uservalidators\\registerdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.business\\services\\implements\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|solutionrelative:qecomvers.business\\services\\implements\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.business\\profiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|solutionrelative:qecomvers.business\\profiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\contexts\\qecomversdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\contexts\\qecomversdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|solutionrelative:qecomvers.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.business\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|solutionrelative:qecomvers.business\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\repositories\\productsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\repositories\\productsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\repositories\\siteitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\repositories\\siteitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\qecomvers.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\qecomvers.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.business\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|solutionrelative:qecomvers.business\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\enums\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\enums\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EliAslanov\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-424644096\\UserGenericRepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\iuserrepozitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\iuserrepozitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|solutionrelative:qecomvers.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\usergenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\usergenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\repositories\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\repositories\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\repositories\\productcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\repositories\\productcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|solutionrelative:qecomvers.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\isiteitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\isiteitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\iproductsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\iproductsizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\iproductimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\iproductimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\iproductcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\iproductcolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B1F8F9-6FD7-CCC6-8148-5EC43607A2F1}|Qecomvers.Core\\Qecomvers.Core.csproj|solutionrelative:qecomvers.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\configurations\\siteitemsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\configurations\\siteitemsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.business\\qecomvers.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DBE5E7E-DCBF-C5EE-C80F-7DCDC95D5239}|Qecomvers.Business\\Qecomvers.Business.csproj|solutionrelative:qecomvers.business\\qecomvers.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA53D43-E399-577B-9BFE-998C360DB932}|Qecomvers.DAL\\Qecomvers.DAL.csproj|solutionrelative:qecomvers.dal\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|c:\\users\\eliaslanov\\desktop\\mvs derseli\\qecomvers\\qecomvers.mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{275B327C-E00E-E546-E072-11AB36A7FE62}|Qecomvers.MVC\\Qecomvers.MVC.csproj|solutionrelative:qecomvers.mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 37,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\DTOs\\User\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Business\\DTOs\\User\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\DTOs\\User\\RegisterDTO.cs",
+              "RelativeToolTip": "Qecomvers.Business\\DTOs\\User\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T23:18:54.337Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserS.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Services\\Implements\\IUserS.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Business\\Services\\Implements\\IUserS.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Services\\Implements\\IUserS.cs",
+              "RelativeToolTip": "Qecomvers.Business\\Services\\Implements\\IUserS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T00:00:12.885Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterDTOValidators.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Validators\\UserValidators\\RegisterDTOValidators.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Business\\Validators\\UserValidators\\RegisterDTOValidators.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Validators\\UserValidators\\RegisterDTOValidators.cs",
+              "RelativeToolTip": "Qecomvers.Business\\Validators\\UserValidators\\RegisterDTOValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T10:11:43.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Profiles\\AppUserProfile.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Business\\Profiles\\AppUserProfile.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Profiles\\AppUserProfile.cs",
+              "RelativeToolTip": "Qecomvers.Business\\Profiles\\AppUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:29:24.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Qecomvers.MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Qecomvers.MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:58:01.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QecomversDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Contexts\\QecomversDbContext.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Contexts\\QecomversDbContext.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Contexts\\QecomversDbContext.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Contexts\\QecomversDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T10:22:36.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Services\\Implements\\UserService.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Business\\Services\\Implements\\UserService.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Services\\Implements\\UserService.cs",
+              "RelativeToolTip": "Qecomvers.Business\\Services\\Implements\\UserService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T22:28:58.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\ServiceRegistrations.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T21:21:03.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductImageRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Repositories\\ProductImageRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductImageRepository.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Repositories\\ProductImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T22:02:19.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T21:10:56.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T22:30:25.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductSizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductSizeRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Repositories\\ProductSizeRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductSizeRepository.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Repositories\\ProductSizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T22:06:08.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SiteItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\SiteItemRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Repositories\\SiteItemRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\SiteItemRepository.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Repositories\\SiteItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T22:12:33.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\ProductImage.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T09:33:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T20:44:27.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T20:37:04.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Qecomvers.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Qecomvers.Core.csproj",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Qecomvers.Core.csproj",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Qecomvers.Core.csproj",
+              "RelativeToolTip": "Qecomvers.Core\\Qecomvers.Core.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-14T11:40:44.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\DTOs\\User\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Business\\DTOs\\User\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\DTOs\\User\\LoginDTO.cs",
+              "RelativeToolTip": "Qecomvers.Business\\DTOs\\User\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T23:17:00.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Enums\\Size.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Enums\\Size.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Enums\\Size.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Enums\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T23:54:18.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserGenericRepository1.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-424644096\\UserGenericRepository1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-424644096\\UserGenericRepository1.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-424644096\\UserGenericRepository1.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-424644096\\UserGenericRepository1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T23:46:54.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUserRepozitory.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IUserRepozitory.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\IUserRepozitory.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IUserRepozitory.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\IUserRepozitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T23:05:00.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Business\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Qecomvers.Business\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T22:23:26.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\UserGenericRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\UserGenericRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\UserGenericRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\UserGenericRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIBQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T22:40:53.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T21:16:13.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Repositories\\ProductCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductCategoryRepository.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Repositories\\ProductCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T21:51:25.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductColorRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Repositories\\ProductColorRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\ProductColorRepository.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Repositories\\ProductColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T21:54:26.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T21:01:06.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ISiteItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\ISiteItemRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\ISiteItemRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\ISiteItemRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\ISiteItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:58:03.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Qecomvers.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\Program.cs",
+              "RelativeToolTip": "Qecomvers.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T18:22:52.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IProductSizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductSizeRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\IProductSizeRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductSizeRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\IProductSizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:56:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IProductImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductImageRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\IProductImageRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductImageRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\IProductImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:54:26.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IProductColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductColorRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\IProductColorRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductColorRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\IProductColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:52:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IProductCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\IProductCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductCategoryRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\IProductCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:50:19.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:43:51.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:42:08.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:37:32.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SiteItemsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\SiteItemsConfiguration.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Configurations\\SiteItemsConfiguration.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\SiteItemsConfiguration.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Configurations\\SiteItemsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:46:46.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductSizeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductSizeConfiguration.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Configurations\\ProductSizeConfiguration.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductSizeConfiguration.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Configurations\\ProductSizeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:40:59.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductImageConfiguration.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Configurations\\ProductImageConfiguration.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductImageConfiguration.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Configurations\\ProductImageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:35:29.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Configurations\\ProductCategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductCategoryConfiguration.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Configurations\\ProductCategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:27:31.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductColorConfiguration.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Configurations\\ProductColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductColorConfiguration.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Configurations\\ProductColorConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:31:43.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Qecomvers.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Qecomvers.DAL.csproj",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Qecomvers.DAL.csproj",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Qecomvers.DAL.csproj",
+              "RelativeToolTip": "Qecomvers.DAL\\Qecomvers.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T14:10:49.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Qecomvers.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\Qecomvers.MVC.csproj",
+              "RelativeDocumentMoniker": "Qecomvers.MVC\\Qecomvers.MVC.csproj",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\Qecomvers.MVC.csproj",
+              "RelativeToolTip": "Qecomvers.MVC\\Qecomvers.MVC.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T10:29:00.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Qecomvers.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Qecomvers.Business.csproj",
+              "RelativeDocumentMoniker": "Qecomvers.Business\\Qecomvers.Business.csproj",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Business\\Qecomvers.Business.csproj",
+              "RelativeToolTip": "Qecomvers.Business\\Qecomvers.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T14:14:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T12:34:54.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Qecomvers.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Qecomvers.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-17T14:15:06.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T12:28:50.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "Qecomvers.DAL\\Configurations\\AppUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.DAL\\Configurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "Qecomvers.DAL\\Configurations\\AppUserConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T12:22:00.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Qecomvers.MVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\appsettings.Development.json",
+              "RelativeToolTip": "Qecomvers.MVC\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-17T14:13:43.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Qecomvers.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.MVC\\appsettings.json",
+              "RelativeToolTip": "Qecomvers.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-17T11:16:43.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T09:00:41.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Common\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\Common\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Common\\ProductCategory.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\Common\\ProductCategory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T11:21:24.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SiteItems.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\SiteItems.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\SiteItems.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\SiteItems.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\SiteItems.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T10:01:32.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductCategoty.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\ProductCategoty.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\ProductCategoty.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\ProductCategoty.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\ProductCategoty.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T09:12:44.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Enums\\Color.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Enums\\Color.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T08:43:28.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductSize.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Common\\ProductSize.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\Common\\ProductSize.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Common\\ProductSize.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\Common\\ProductSize.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T08:31:02.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductColor.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Common\\ProductColor.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\Common\\ProductColor.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Common\\ProductColor.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\Common\\ProductColor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T08:24:23.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Qecomvers.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\EliAslanov\\Desktop\\mvs derseli\\Qecomvers\\Qecomvers.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Qecomvers.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T20:36:20.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿using Microsoft.AspNetCore.Identity;
+using Qecomvers.Core.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Qecomvers.Core.Repositories
+{
+    public class UserGenericRepository<TIdentity> : IUserRepository<TIdentity>
+        where TIdentity : AppUser, new()
+    {
+        private readonly UserManager<AppUser> _userManager;
+        private readonly Microsoft.AspNetCore.Identity.SignInManager<AppUser> _signInManager;
+
+        public UserGenericRepository(UserManager<AppUser> userManager, Microsoft.AspNetCore.Identity.SignInManager<AppUser> signInManager)
+        {
+            _userManager = userManager;
+            _signInManager = signInManager;
+        }
+
+        public async Task<IdentityResult> RegisterAsync(AppUser user, string password)
+        {
+            return await _userManager.CreateAsync(user, password);
+        }
+
+        public async Task<AppUser> FindByNameAsync(string username)
+        {
+            return await _userManager.FindByNameAsync(username);
+        }
+
+        public async Task<AppUser> FindByEmailAsync(string email)
+        {
+            return await _userManager.FindByEmailAsync(email);
+        }
+
+        public async Task<SignInResult> CheckPasswordSignInAsync(AppUser user, string password)
+        {
+            return await _signInManager.CheckPasswordSignInAsync(user, password, false);
+        }
+
+        public async Task<SignInResult> UserSignInAsync(AppUser user, string password, bool rememberMe)
+        {
+            return await _signInManager.CheckPasswordSignInAsync(user, password, rememberMe);
+        }
+    }
+}

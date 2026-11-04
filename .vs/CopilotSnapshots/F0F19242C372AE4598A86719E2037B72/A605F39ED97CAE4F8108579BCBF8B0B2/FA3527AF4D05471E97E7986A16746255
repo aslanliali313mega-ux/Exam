@@ -1,0 +1,23 @@
+﻿using System;
+using Qecomvers.Core.Entities;
+
+namespace Qecomvers.Core.Enums
+{
+    public enum Size
+    {
+        Small,
+        Medium,
+        Large
+    }
+}
+
+namespace Qecomvers.Core.Entities // consider moving from Enums to Entities namespace
+{
+    public class Size
+    {
+        public Guid Id { get; set; }
+        public string Name { get; set; }            // optional, give the size a name
+        public Guid ProductId { get; set; }
+        public Product Product { get; set; }
+    }
+}

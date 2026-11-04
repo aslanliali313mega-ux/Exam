@@ -1,0 +1,72 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Qecomvers.Core.Entities.Common;
+using Qecomvers.Core.Repositories;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Qecomvers.DAL.Repositories
+{
+    public class GenericRepository<T> : IGenericRepository<T>(ProniaDbContext _context) where T : BaseEntity, new()
+    {
+
+        protected DbSet<T> Table => _context.Set<T>();
+    {
+        public async Task AddAsync(T entity) => await Table.AddAsync(entity);
+       
+    
+
+        Task IGenericRepository<T>.AddAsync(T entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        void IGenericRepository<T>.Delete(T entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task IGenericRepository<T>.DeleteAsync(Guid id)
+        {
+            throw new NotImplementedException();
+        }
+
+        IQueryable<T> IGenericRepository<T>.GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<T?> IGenericRepository<T>.GetByIdAsync(Guid id)
+        {
+            throw new NotImplementedException();
+        }
+
+        IQueryable<T> IGenericRepository<T>.GetWhere(Expression<Func<T, bool>> expression)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task DeleteAsync(Guid id) => await Table.Where(x => x.Id == id).ExecuteDeleteAsync();
+
+
+        Task<bool> IGenericRepository<T>.IsExistAsync(Guid id)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<int> IGenericRepository<T>.SaveAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        void IGenericRepository<T>.Update(T entity)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    
+}

@@ -1,0 +1,23 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Qecomvers.Core.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Qecomvers.DAL.Configurations
+{
+    public class ProductSizeConfiguration : IEntityTypeConfiguration<ProductSize>
+    {
+        public void Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<ProductSize> builder)
+        {
+            builder.Property(e => e.Size)
+                .IsRequired();
+
+            builder.Property(e => e.ProductId)
+                .IsRequired();
+
+        }
+    }
+}

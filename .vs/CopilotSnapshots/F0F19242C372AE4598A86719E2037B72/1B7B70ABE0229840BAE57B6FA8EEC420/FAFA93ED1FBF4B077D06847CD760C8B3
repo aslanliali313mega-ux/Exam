@@ -1,0 +1,17 @@
+﻿using Microsoft.AspNetCore.Identity;
+using Qecomvers.Core.Entities;
+
+namespace Qecomvers.Core.Repositories
+{
+    public interface IUserRepository<TIdentity> where TIdentity : AppUser, new ()
+    {
+       
+        
+            public Task<IdentityResult> RegisterAsync(AppUser user, string password);
+            public Task<AppUser> FindByNameAsync(string username);
+            public Task<AppUser> FindByEmailAsync(string email);
+            public Task<SignInResult> CheckPasswordSignInAsync(AppUser user, string password);
+            public Task<SignInResult> UserSignInAsync(AppUser user, string password, bool rememberMe);
+        
+    }
+}

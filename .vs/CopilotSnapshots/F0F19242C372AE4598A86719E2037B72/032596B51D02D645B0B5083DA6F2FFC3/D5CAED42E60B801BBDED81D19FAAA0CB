@@ -1,0 +1,45 @@
+﻿using Qecomvers.Business.Services.Interfaces;
+using Qecomvers.Core.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Qecomvers.Business.Services.Implements
+{
+    public async class UserService(IUserS) : IUserService
+    {
+        public Task LoginAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task RegisterAsync()
+        {
+            AppUser user = new AppUser
+            {
+                UserName = registerVM.RegisterVM.Username,
+                Email = registerVM.RegisterVM.Email,
+            };
+
+            var result = await _repo.RegisteredAsync(user, registerVM.RegisterVM.Password);
+            if (!result.Succeeded)
+            {
+                foreach (var error in result.Errors)
+                {
+                    throw new RegisterFailedException(error.Description);
+                }
+            }
+            await _userLocationService.CreateAsync(registerVM.ChangableUserLocationVM, user.Id);
+
+            await _userProfileService.CreateAsync(registerVM.ChangableUserProfileVM, user.Id, "imgs/profilePhotos");
+
+            await _userSettingsService.CreateAsync(registerVM.ChangableUserSettingsVM, user.Id);
+
+            return user;
+
+
+        }
+    }
+}

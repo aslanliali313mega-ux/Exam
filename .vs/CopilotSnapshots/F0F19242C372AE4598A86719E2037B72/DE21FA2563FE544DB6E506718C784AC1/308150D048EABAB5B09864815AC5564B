@@ -1,0 +1,44 @@
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
+using Qecomvers.Business.DTOs.User;
+using Qecomvers.Business.Services.Interfaces;
+
+namespace Qecomvers.MVC.Controllers
+{
+    public class UserController(IUserService _service) : Controller
+    {
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login()
+        {
+            try
+            {
+                var result = await _service.LoginAsync(dto);
+            }
+            catch (Exception)
+            {
+
+            }
+
+            if (!result.Succeeded)
+            {
+                ModelState.AddModelError("", "Something is wrong!");
+            }
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Register(RegisterDTO dto)
+        {
+
+        }
+
+
+
+    }
+}
